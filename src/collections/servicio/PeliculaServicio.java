@@ -66,8 +66,6 @@ public class PeliculaServicio {
             if(peli.getDuracion()>1){
                 maslargaquesperanzadepobre.add(peli);
                 
-         //       System.out.println(peli.getTitulo());
-
             }
         
         }
